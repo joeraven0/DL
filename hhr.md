@@ -5,7 +5,7 @@ $S<CR>
 $Ar<CR>
 2441720D
 ```
-## OCR
+## GM OCR
 ### 8 dig (orig)
 ```
 $COCEN10000000
