@@ -4,6 +4,9 @@ $S<CR>
 
 $Ar<CR>
 2441720D
+
+$-$! - Info
+24530D242d24210D24730D
 ```
 ## GM OCR
 ### 8 dig (orig)
