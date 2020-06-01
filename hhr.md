@@ -10,6 +10,16 @@ $Ar<CR>
 
 $-$! - Info
 24530D242d24210D24730D
+
+service mode
+brygga ER2
+service mode
+gå ur service
+exit brygga ER0
+exit service mode
+
+h - hälsa
+s - statistik
 ```
 ## GM OCR
 ### 8 dig (orig)
