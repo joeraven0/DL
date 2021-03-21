@@ -1,0 +1,9 @@
+#   OUTPUT STRING
+#   Code content: 7350042710003[CR]
+#   AIM_ID: ]E0[CR]
+#   SYMBOLOGY: EAN13[CR]
+
+
+{
+	OUT1.Data = "Code content: " + OUT1.Data + "\x0D" + "AIM_ID: " + GetAIMId(OUT1) + "\x0D"+ "SYMBOLOGY: " + OUT1.DataType + "\x0D"
+}
