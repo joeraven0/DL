@@ -1,3 +1,3 @@
 # DL_QuickCommands
 
-Send commands to Datalogic HHR, these are just useful reminders.
+Some scripts and commands examples for Datalogic HHR, these are just useful reminders.
